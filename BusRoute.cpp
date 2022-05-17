@@ -25,4 +25,3 @@ BusRoute::~BusRoute()
 {
 	cout << "Deleting bus route " << routeID << endl;
 }
-

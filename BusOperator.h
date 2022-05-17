@@ -1,5 +1,5 @@
 #pragma once
-#include "BusRoute.h";
+#include "BusRoute.h"
 #define SIZE 5
 
 class BusOperator
