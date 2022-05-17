@@ -1,7 +1,7 @@
 # ooc-project-IT21267772
 ooc-project-IT21267772 created by GitHub Classroom
 
-OOC MLB_03.02_04_AirlineTicketReservation
+OOC MLB_04.02_02 Bus Scheduling & Booking System
 
 | Registration Number | Name | Email | Contribution |
 | :---: | :---: | :---: | :---: |
